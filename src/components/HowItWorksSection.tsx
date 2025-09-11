@@ -30,7 +30,7 @@ const steps = [
 
 export const HowItWorksSection = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5531999999999?text=Olá! Gostaria de me cadastrar para receber alertas de leilões de imóveis.", "_blank");
+    window.open("https://wa.me/5531996908287?text=Olá! Gostaria de saber como funciona o serviço de alertas.", "_blank");
   };
 
   return (

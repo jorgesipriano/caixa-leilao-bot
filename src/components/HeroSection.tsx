@@ -4,7 +4,7 @@ import heroImage from "@/assets/hero-real-estate.jpg";
 
 export const HeroSection = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5531999999999?text=Olá! Gostaria de saber mais sobre o serviço de automação de leilões de imóveis.", "_blank");
+    window.open("https://wa.me/5531996908287?text=Olá! Gostaria de saber mais sobre o serviço de automação de leilões de imóveis.", "_blank");
   };
 
   return (
@@ -29,13 +29,13 @@ export const HeroSection = () => {
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
             Receba
             <span className="bg-gradient-to-r from-whatsapp to-whatsapp-light bg-clip-text text-transparent"> Alertas </span>
-            de Leilões no
+            de Imóveis em Leilão no
             <span className="block">WhatsApp</span>
           </h1>
 
           {/* Subheading */}
           <p className="text-xl md:text-2xl mb-12 text-primary-foreground/90 max-w-3xl mx-auto leading-relaxed">
-            Não perca mais nenhuma oportunidade! Receba automaticamente as melhores ofertas de imóveis de leilão da Caixa Econômica Federal na região de Belo Horizonte.
+            Monitore casas em leilão da Caixa Econômica Federal e receba alertas de atualizações de preços automaticamente! Assinatura de 2 anos por apenas <span className="font-bold text-whatsapp-light">R$ 19,99</span>.
           </p>
 
           {/* CTA Buttons */}
@@ -52,7 +52,7 @@ export const HeroSection = () => {
             <Button 
               variant="outline" 
               size="lg"
-              className="text-lg px-8 py-4 h-auto border-white/30 text-primary-foreground hover:bg-white/10"
+              className="text-lg px-8 py-4 h-auto border-white/40 text-primary-foreground hover:bg-white/20 bg-white/10"
             >
               <Clock className="h-5 w-5 mr-2" />
               Como Funciona

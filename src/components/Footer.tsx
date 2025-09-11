@@ -14,7 +14,7 @@ export const Footer = () => {
             </p>
             <div className="flex items-center gap-2 text-background/80">
               <MessageCircle className="h-4 w-4" />
-              <span>WhatsApp: (31) 99999-9999</span>
+              <span>WhatsApp: (31) 9690-8287</span>
             </div>
           </div>
 
@@ -23,10 +23,14 @@ export const Footer = () => {
             <ul className="space-y-2 text-background/80">
               <li>Belo Horizonte</li>
               <li>Contagem</li>
-              <li>Betim</li>
+              <li>Lagoa Santa</li>
               <li>Nova Lima</li>
+              <li>Pedro Leopoldo</li>
+              <li>Raposos</li>
               <li>Ribeirão das Neves</li>
               <li>Santa Luzia</li>
+              <li>Sete Lagoas</li>
+              <li>Vespasiano</li>
             </ul>
           </div>
 
