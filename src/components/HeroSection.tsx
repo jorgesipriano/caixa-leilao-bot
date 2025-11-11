@@ -35,7 +35,7 @@ export const HeroSection = () => {
 
           {/* Subheading */}
           <p className="text-xl md:text-2xl mb-12 text-primary-foreground/90 max-w-3xl mx-auto leading-relaxed">
-            Monitore casas em leilão da Caixa Econômica Federal e receba alertas de atualizações de preços automaticamente! Assinatura de 2 anos por apenas <span className="font-bold text-whatsapp-light">R$ 19,99</span>.
+            Monitore casas em leilão da Caixa Econômica Federal e receba alertas de atualizações de preços automaticamente! Assinatura Anual <span className="font-bold text-whatsapp-light">R$ 9,99</span>.
           </p>
 
           {/* CTA Buttons */}
