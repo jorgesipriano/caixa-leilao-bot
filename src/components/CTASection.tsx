@@ -6,13 +6,13 @@ const benefits = [
   "Monitoramento 24/7 de imóveis em leilão",
   "Cobertura de 10+ cidades da Grande BH", 
   "Informações diretas da Caixa Econômica",
-  "Assinatura de 2 anos por apenas R$ 19,99",
+  "Assinatura de 1 ano por apenas R$ 9,99",
   "Suporte personalizado via WhatsApp"
 ];
 
 export const CTASection = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/5531996908287?text=Olá! Gostaria de assinar o serviço de alertas de leilões por R$ 19,99.", "_blank");
+    window.open("https://wa.me/5531996908287?text=Olá! Gostaria de assinar o serviço de alertas de leilões por R$ 9,99.", "_blank");
   };
 
   return (
@@ -45,8 +45,8 @@ export const CTASection = () => {
 
             <div className="bg-white/10 backdrop-blur-sm rounded-xl p-8 border border-white/20 flex flex-col justify-center">
               <div className="text-center mb-8">
-                <div className="text-4xl font-bold text-primary-foreground mb-2">R$ 19,99</div>
-                <div className="text-primary-foreground/80">Assinatura 2 anos</div>
+                <div className="text-4xl font-bold text-primary-foreground mb-2">R$ 9,99</div>
+                <div className="text-primary-foreground/80">Assinatura 1 ano</div>
                 <div className="text-primary-foreground/80">Apenas R$ 0,83/mês</div>
               </div>
               
