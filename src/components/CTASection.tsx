@@ -57,7 +57,7 @@ export const CTASection = () => {
                 className="w-full text-lg px-8 py-4 h-auto"
               >
                 <MessageCircle className="h-5 w-5 mr-2" />
-                Assinar por R$ 19,99
+                Assinar por R$ 9,99
               </Button>
               
               <p className="text-sm text-primary-foreground/70 mt-4 text-center">
